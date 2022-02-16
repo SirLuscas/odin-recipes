@@ -1,0 +1,26 @@
+h1 {
+    background-color: rgb(216, 112, 112);
+    text-align: center;
+}
+
+h2 {
+
+    background-color: rgb(216, 112, 112);
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(116, 205, 221);
+    color: black;
+    border-radius: 9px;
+    font-size: large;
+    padding: 4px 5px;
+}
+
+h1 {
+}
